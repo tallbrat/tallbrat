@@ -1,6 +1,7 @@
 ### Hi there 👋
 #### I’m neither from a design, Comp tech, nor business background but my higher level of curiosity and faster understanding and enthusiasm are my current assets.
-🌱 I’m currently learning Bash Scripting, DevOps, AWS, Teraform 
+🌱 I’m currently learning Bash Scripting, DevOps, AWS, Teraform
+
 ⚡ Fun fact: Civil Engineering graduate setting into IT Industry.
 
 <!--
