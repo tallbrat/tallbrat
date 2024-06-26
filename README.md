@@ -1,10 +1,14 @@
 ### Hi there 👋
 #### I’m neither from a design, Comp tech, nor business background but my higher level of curiosity and faster understanding and enthusiasm are my current assets.
-💪 I'm proficient with Jenkins for Tool integration and Terraform for deploying AWS services.
+💪 I'm proficient with 
+**Jenkins** for Tool integration,
+**Terraform** for deploying AWS services,
+**Docker** for packing the application in an isolated environment,
+**Trevy** for checking the vulnerability of the code which introduces DevSecOps to the CI pipeline.
 
-🌱 I’m currently learning Bash Scripting, DevOps
+🌱 I’m currently learning Bash Scripting, DevOps, Kube
 
-⚡ Fun fact: Civil Engineering graduate setting into IT Industry.
+⚡ Fun fact: Civil Engineering graduate stepping into IT Industry.
 
 <!--
 **tallbrat/tallbrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
