@@ -3,12 +3,14 @@
 💪 I'm proficient with 
 **Jenkins** for Tool integration,
 **Terraform** for deploying AWS services,
-**Docker** for packing the application in an isolated environment,
-**Trevy** for checking the vulnerability of the code which introduces DevSecOps to the CI pipeline.
+**Docker** for packing the application in an isolated environment
+**Pandas** for Data handling
+**PySpark** for creating a robust transformation process on live data
+**
 
-🌱 I’m currently learning Bash Scripting, DevOps, Kube
+🌱 I’m currently learning Machine Learning and Artificial Intelligence.
 
-⚡ Fun fact: Civil Engineering graduate stepping into IT Industry.
+⚡ Fun fact: Civil Engineer learning to CODE.
 
 <!--
 **tallbrat/tallbrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
